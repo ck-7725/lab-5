@@ -52,3 +52,5 @@ public class LogoutPresenter implements LogoutOutputBoundary {
         // Thought question: is this a reasonable assumption?
     }
 }
+
+// erin
